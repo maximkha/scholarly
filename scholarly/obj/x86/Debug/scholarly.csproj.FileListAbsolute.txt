@@ -1,0 +1,10 @@
+/Users/maxkhanov/Projects/scholarly/scholarly/bin/Debug/scholarly.exe
+/Users/maxkhanov/Projects/scholarly/scholarly/bin/Debug/scholarly.pdb
+/Users/maxkhanov/Projects/scholarly/scholarly/bin/Debug/HtmlAgilityPack.dll
+/Users/maxkhanov/Projects/scholarly/scholarly/bin/Debug/HtmlAgilityPack.pdb
+/Users/maxkhanov/Projects/scholarly/scholarly/bin/Debug/HtmlAgilityPack.xml
+/Users/maxkhanov/Projects/scholarly/scholarly/obj/x86/Debug/scholarly.csprojAssemblyReference.cache
+/Users/maxkhanov/Projects/scholarly/scholarly/obj/x86/Debug/scholarly.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/scholarly/scholarly/obj/x86/Debug/scholarly.csproj.CopyComplete
+/Users/maxkhanov/Projects/scholarly/scholarly/obj/x86/Debug/scholarly.exe
+/Users/maxkhanov/Projects/scholarly/scholarly/obj/x86/Debug/scholarly.pdb
